@@ -8,3 +8,6 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/GRTSDNTE.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/19/06/06/22/15/5719779.jpg" group-title="FILMES" pltv-subgroup="TITANS", ANABELLE
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/GRTSDNTE.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/19/03/01/21/39/0654585.jpg" group-title="FILMES" pltv-subgroup="TITANS", PIKACHU O FILME
+https://telona.net/wp-content/plugins/wp-rocket/assets/js/lazyload/11.0.3/lazyload.min.js
