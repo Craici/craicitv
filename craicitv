@@ -6,8 +6,6 @@
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vdV3VYf4JGQ/hqdefault.jpg" group-title="FILMES" pltv-subgroup="TITANS", GRITOS DA NOITE
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/GRTSDNTE.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/a-pantera-cor-de-rosa-2-dvd-filme-original-D_NQ_NP_737411-MLB20552119839_012016-F.jpg" group-title="FILMES" pltv-subgroup="TITANS", A PANTERA COR DE ROSA
-http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
 
 
 #################CHAVES E CHAPOLIN########################
@@ -119,81 +117,282 @@ https://archive.org/download/cineon20/Ch_049.mp4
 
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
 http://archive.org/download/animes_01/001.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X2
 http://archive.org/download/animes_01/002.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X3
 http://archive.org/download/animes_01/003.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X4
 http://archive.org/download/animes_01/004.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X5
 http://archive.org/download/animes_01/005.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X6
 http://archive.org/download/animes_01/006.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X7
 http://archive.org/download/animes_01/007.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X8
 http://archive.org/download/animes_01/008.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X9
 http://archive.org/download/animes_01/009.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X10
 http://archive.org/download/animes_01/010.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X11
 http://archive.org/download/animes_01/011.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X12
 http://archive.org/download/animes_01/012.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X13
 http://archive.org/download/animes_01/013.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X14
 http://archive.org/download/animes_01/014.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X15
 http://archive.org/download/animes_01/015.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X16
 http://archive.org/download/animes_01/016.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X17
 http://archive.org/download/animes_01/017.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X18
 http://archive.org/download/animes_01/018.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X19
 http://archive.org/download/animes_01/019.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X20
 http://archive.org/download/animes_01/020.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X21
 http://archive.org/download/animes_01/021.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X22
 http://archive.org/download/animes_01/022.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X23
 http://archive.org/download/animes_01/023.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X24
 http://archive.org/download/animes_01/024.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X25
 http://archive.org/download/animes_01/025.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X26
 http://archive.org/download/animes_01/026.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X27
 http://archive.org/download/animes_01/027.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X28
 http://archive.org/download/animes_01/028.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X29
 http://archive.org/download/animes_01/029.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X30
 http://archive.org/download/animes_01/030.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X31
 http://archive.org/download/animes_01/031.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X32
 http://archive.org/download/animes_01/032.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X33
 http://archive.org/download/animes_01/033.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X34
 http://archive.org/download/animes_01/034.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X35
 http://archive.org/download/animes_01/035.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X36
 http://archive.org/download/animes_01/036.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X37
 http://archive.org/download/animes_01/037.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X38
 http://archive.org/download/animes_01/038.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X39
 http://archive.org/download/animes_01/039.mp4
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X1
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/coleco-com-26-desenhos-antigos-em-dvds-decadas-de-60-e-70-D_NQ_NP_764175-MLB28097559861_092018-F.jpg" group-title="DESENHOS ANTIGOS" pltv-subgroup="TITANS", 1X40
 http://archive.org/download/animes_01/040.mp4
+
+
+
+#################DRAGON BALL SUPER########################
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X1
+http://archive.org/download/ucekpv_22office_01/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X2
+http://archive.org/download/ucekpv_22office_02/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X3
+http://archive.org/download/ucekpv_22office_03/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X4
+http://archive.org/download/ucekpv_22office_04/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X5
+http://archive.org/download/ucekpv_22office_05/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X6
+http://archive.org/download/ucekpv_22office_06/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X7
+http://archive.org/download/ucekpv_22office_07/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X8
+http://archive.org/download/ucekpv_22office_08/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X9
+http://archive.org/download/ucekpv_22office_09/09.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X10
+http://archive.org/download/ucekpv_22office_10/10.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X11
+http://archive.org/download/ucekpv_22office_11/11.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X12
+http://archive.org/download/ucekpv_22office_11/11.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X13
+http://archive.org/download/ucekpv_22office_12/12.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X14
+http://archive.org/download/ucekpv_22office_13/13.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X15
+http://archive.org/download/ucekpv_22office_14/14.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X16
+http://archive.org/download/ucekpv_22office_15/15.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X17
+http://animeislife.ga/?kissmegoodbye=AD6v5dwwU-dsNLY0FgMq2uqyX5ZI_qglyvulcNm3dSEr4QjqZEQTG8D9zqaYsYu8zrm_N8Dd3xfwKNVL7jhU0pYWNxw8oaJQgxWzOlXE_ADt5HimSVd113ADhuwyk3aDV2_uD281_M4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X18
+http://animeislife.ga/?kissmegoodbye=AD6v5dzKYiJevFSkwmYloLjliKVrJZDSvRqUFmzjXLAlSb_AGoMHJipeBn_mrGEPuy3hMgQ3XGQjKCoN70slTS4CarIVA2zz4K5sfGzR-yxgIOjz-tiY-CAvPGteMqKeJFJB9Z_MyV0
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X19
+http://animeislife.ga/?kissmegoodbye=AD6v5dysII508Ey9VISxl9IpOAHBR2FflIYmjjIzNhQSjA9qAqBMcsGqtbh3bNkadcNvZLI9ITy1h8rr1Eq8iibErBPuuUl7NZuJSARx53Mr-ctgvFJwxZE3tgDxoJgMH9xyBbpjUxA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X20
+http://animeislife.ga/?kissmegoodbye=AD6v5dyar5RLWuY5Ev0vzeNntHEZiv-4lPHQq8l95eg20NK0HJVZRAhZEcxjvEijOB8WqGauq1nf7G7EFyTdVypIW3S4jt8oOYns6plCLh8Q-KCzd52_xz_2yWWDx_cdZ67aYcy2Fj4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X21
+http://animeislife.ga/?kissmegoodbye=AD6v5dw1NYtEKsTnVc4_mnON7295d5gUktTObN9fmk2X-TvWEE25j6dqZ0FbPohb8aXJU0UJYoq8U0GO0g9ubgRpKgNyR3hgY_QI4kenTjhY9IhMz6QCD7rtwJ6DAVS7RHWV9T9qZoi7
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X22
+http://animeislife.ga/?kissmegoodbye=AD6v5dzqcQy8s6y1o9MKDONBAkUtioE3zBSoLJL1Y_dj3Ad-gYsNWhQsEvi41OSqQzBcwPWcwzu4uHf8_9I1jpmHAJ4v8F5h9Nkh-c3AhjWMeVgtENskOP-u8hQY-aJ2DKDSZQs8C7o
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X23
+http://animeislife.ga/?kissmegoodbye=AD6v5dxiju7n80LG3of3Jnn0hHyEGtkN8suNkFeEHjszR3baHtleP5SVtxlvhIzlmWOIka4BHl-Qw01QZVwWoPo_qEPnrtngMdv5goJvi0U_e8ZTF7g5iDSTa1rMFCBcETUEQjA71j9q
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X24
+http://archive.org/download/sdhkfqj_utooemail_24/24.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X25
+http://archive.org/download/sdhkfqj_utooemail_25/25.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X26
+http://archive.org/download/sdhkfqj_utooemail_26/26.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X27
+http://archive.org/download/sdhkfqj_utooemail_27/27.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X28
+http://archive.org/download/sdhkfqj_utooemail_28/28.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X29
+http://archive.org/download/sdhkfqj_utooemail_29/29.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X30
+http://archive.org/download/sdhkfqj_utooemail_30/30.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X31
+http://archive.org/download/sdhkfqj_utooemail_31/31.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X32
+http://archive.org/download/sdhkfqj_utooemail_32/32.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X33
+http://archive.org/download/sdhkfqj_utooemail_33/33.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X34
+http://myfeelings.ga/novo/Dragon_Ball_Super_34_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X35
+http://myfeelings.ga/novo/Dragon_Ball_Super_35_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X36
+http://myfeelings.ga/novo/Dragon_Ball_Super_36_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X37
+http://myfeelings.ga/novo/Dragon_Ball_Super_37_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X38
+http://myfeelings.ga/novo/Dragon_Ball_Super_38_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X39
+http://myfeelings.ga/novo/Dragon_Ball_Super_39_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X40
+http://myfeelings.ga/novo/Dragon_Ball_Super_40_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X41
+http://myfeelings.ga/novo/Dragon_Ball_Super_41_BD_FULLHD_DubladoV2.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X42
+http://myfeelings.ga/novo/Dragon_Ball_Super_42_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X43
+http://myfeelings.ga/novo/Dragon_Ball_Super_43_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X44
+http://myfeelings.ga/novo/Dragon_Ball_Super_44_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X45
+http://myfeelings.ga/novo/Dragon_Ball_Super_45_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X46
+http://myfeelings.ga/novo/Dragon_Ball_Super_46_BD_MQ_DubladoV2.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X47
+http://myfeelings.ga/novo/Dragon_Ball_Super_47_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X48
+http://myfeelings.ga/novo/Dragon_Ball_Super_48_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X49
+http://myfeelings.ga/novo/Dragon_Ball_Super_49_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X50
+http://myfeelings.ga/novo/Dragon_Ball_Super_50_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X51
+http://myfeelings.ga/novo/Dragon_Ball_Super_51_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X52
+http://myfeelings.ga/novo/Dragon_Ball_Super_52_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X53
+http://myfeelings.ga/novo/Dragon_Ball_Super_53_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X54
+http://myfeelings.ga/novo/Dragon_Ball_Super_54_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X55
+http://myfeelings.ga/novo/Dragon_Ball_Super_55_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X56
+http://myfeelings.ga/novo/Dragon_Ball_Super_56_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X57
+http://myfeelings.ga/novo/Dragon_Ball_Super_57_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X58
+http://myfeelings.ga/novo/Dragon_Ball_Super_58_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X59
+http://myfeelings.ga/novo/Dragon_Ball_Super_59_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X60
+http://myfeelings.ga/novo/Dragon_Ball_Super_60_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X61
+http://myfeelings.ga/novo/Dragon_Ball_Super_61_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X62
+http://myfeelings.ga/novo/Dragon_Ball_Super_62_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X63
+http://myfeelings.ga/novo/Dragon_Ball_Super_63_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X64
+http://myfeelings.ga/novo/Dragon_Ball_Super_64_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X65
+http://myfeelings.ga/novo/Dragon_Ball_Super_65_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X66
+http://myfeelings.ga/novo/Dragon_Ball_Super_66_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X67
+http://myfeelings.ga/novo/Dragon_Ball_Super_67_BD_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X68
+http://myfeelings.ga/novo/Dragon_Ball_Super_68_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X69
+http://myfeelings.ga/novo/Dragon_Ball_Super_69_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X70
+http://myfeelings.ga/novo/Dragon_Ball_Super_70_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X71
+http://myfeelings.ga/novo/Dragon_Ball_Super_71_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X72
+http://myfeelings.ga/novo/Dragon_Ball_Super_72_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X73
+http://myfeelings.ga/novo/Dragon_Ball_Super_73_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X74
+http://myfeelings.ga/novo/Dragon_Ball_Super_74_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X75
+http://myfeelings.ga/novo/Dragon_Ball_Super_75_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X76
+http://myfeelings.ga/novo/Dragon_Ball_Super_76_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X77
+http://myfeelings.ga/novo/Dragon_Ball_Super_77_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X78
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_78_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X79
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_79_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X80
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_80_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X81
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_81_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X82
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_82_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X83
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_83_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X84
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_84_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X85
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_85_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X86
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_86_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X87
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_87_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X89
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_89_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X90
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_90_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X91
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_91_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X92
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_92_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X93
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_93_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X94
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_94_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X95
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_95_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X96
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_96_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X97
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_97_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X98
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_98_MQ_Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9Im6WQprVM/maxresdefault.jpg" group-title="DRAGON BALL SUPER" pltv-subgroup="TITANS", 1X99
+http://s2.myfeelings.ga:3128/novo/Dragon_Ball_Super_99_MQ_Dublado.mp4
