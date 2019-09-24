@@ -3,8 +3,8 @@
 
 #################TITANS########################
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCK6fykCZUQjTJG4IDhfWCxcXqG.jpg" group-title="SERIES" pltv-subgroup="TITANS", GRITOS DA NOITE
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vdV3VYf4JGQ/hqdefault.jpg" group-title="FILMES" pltv-subgroup="TITANS", GRITOS DA NOITE
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/GRTSDNTE.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCK6fykCZUQjTJG4IDhfWCxcXqG.jpg" group-title="SERIES" pltv-subgroup="TITANS", ANABELLE
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/19/06/06/22/15/5719779.jpg" group-title="FILMES" pltv-subgroup="TITANS", ANABELLE
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/GRTSDNTE.mp4?attachment=true
