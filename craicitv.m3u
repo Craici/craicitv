@@ -1,81 +1,89 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" group-title="TRIGUN" , TRIGUN
-http://0.0.0.0
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 01
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP01.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 02
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP02.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 03
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP03.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 04
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP04.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 05
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP05.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 06
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP06.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 07
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP07.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 08
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP08.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 09
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP09.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 10
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP10.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 11
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP11.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 12
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP12.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 13
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP13.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 14
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP14.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 15
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP15.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 16
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP16.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 17
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP17.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 18
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP18.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 19
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP19.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 20
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP20.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 21
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP21.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 22
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP22.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 23
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP23.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 24
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP24.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 25
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP25.mp4
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN" , EPISODIO 26
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TRGUNEP26.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/PORTUGAL.png" group-title=PORTUGAL",PORTUGAL
+http://fui.me
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="PORTUGAL",RTP 1 (Copyright © 2019 - TeamBlue)
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="PORTUGAL",RTP 1 (Copyright © 2019 - TeamBlue)
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png" group-title="PORTUGAL",RTP 2 (Copyright © 2019 - TeamBlue)
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" group-title="PORTUGAL",SIC (Copyright © 2019 - TeamBlue)
+http://live.impresa.pt/live/sic/sic.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" group-title="PORTUGAL",SIC (Copyright © 2019 - TeamBlue)
+http://live.impresa.pt/live/sic/sic540p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" group-title="PORTUGAL",SIC (Copyright © 2019 - TeamBlue)
+http://live.impresa.pt/live/sic/sic360p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" group-title="PORTUGAL",TVI (Copyright © 2019 - TeamBlue)
+http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" group-title="PORTUGAL",TVI (Copyright © 2019 - TeamBlue)
+http://188.93.238.153:8000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png" group-title="PORTUGAL",SIC NOTICIAS (Copyright © 2019 - TeamBlue)
+http://live.impresa.pt/live/sicnot/sicnot.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png" group-title="PORTUGAL",SIC NOTICIAS (Copyright © 2019 - TeamBlue)
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" group-title="PORTUGAL",RTP 3 (Copyright © 2019 - TeamBlue)
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" group-title="PORTUGAL",RTP 3 (Copyright © 2019 - TeamBlue)
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png" group-title="PORTUGAL",TVI24 (Copyright © 2019 - TeamBlue)
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png" group-title="PORTUGAL",TVI24 (Copyright © 2019 - TeamBlue)
+http://video-auth8.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png" group-title="PORTUGAL",SIC MULHER (Copyright © 2019 - TeamBlue)
+http://85.244.70.140:7000/play/a00y
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png" group-title="PORTUGAL",SIC RADICAL (Copyright © 2019 - TeamBlue)
+http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png" group-title="PORTUGAL",SIC RADICAL (Copyright © 2019 - TeamBlue)
+http://live.impresa.pt/live/sicrad/sicrad.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png" group-title="PORTUGAL",RTP MEMORIA (Copyright © 2019 - TeamBlue)
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" group-title="PORTUGAL",SPORT TV 1 (Copyright © 2019 - TeamBlue)
+http://85.244.70.140:7000/play/a035
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="PORTUGAL",SPORT TV 2 FHD (Copyright © 2019 - TeamBlue)
+http://85.244.70.140:7000/play/a02t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" group-title="PORTUGAL",SPORT TV 3 (Copyright © 2019 - TeamBlue)
+http://85.244.70.140:7000/play/a02w
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="PORTUGAL",SPORT TV 4 (Copyright © 2019 - TeamBlue)
+http://85.244.70.140:7000/play/a02y
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png" group-title="PORTUGAL",DISNEY JUNIOR (Copyright © 2019 - TeamBlue)
+http://85.244.70.140:7000/play/a015
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png" group-title="PORTUGAL",PANDA BIGGS (Copyright © 2019 - TeamBlue)
+http://85.244.70.140:7000/play/a013
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png" group-title="PORTUGAL",NICKELODEON (Copyright © 2019 - TeamBlue)
+http://85.244.70.140:7000/play/a00o
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICK.png" group-title="PORTUGAL",SIC K (Copyright © 2019 - TeamBlue)
+http://live.impresa.pt/live/sick/sick540p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICK.png" group-title="PORTUGAL",SIC K (Copyright © 2019 - TeamBlue)
+http://live.impresa.pt/live/sick/sick540p.m3u8?isnplk=10&rebase=on
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIREALITY.png" group-title="PORTUGAL",TVI REALITY (Copyright © 2019 - TeamBlue)
+http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIREALITY.png" group-title="PORTUGAL",TVI REALITY (Copyright © 2019 - TeamBlue)
+http://85.244.70.140:7000/play/a00x
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVBASE.png" group-title="PORTUGAL",MTV BASE (Copyright © 2019 - TeamBlue)
+http://85.244.70.140:7000/play/a00t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" group-title="PORTUGAL",VH1 EUROPE (Copyright © 2019 - TeamBlue)
+http://85.244.70.140:7000/play/a012
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TLC.png" group-title="PORTUGAL",TLC (Copyright © 2019 - TeamBlue)
+http://85.244.70.140:7000/play/a00z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL180.png" group-title="PORTUGAL",Canal 180 (Copyright © 2019 - TeamBlue)
+http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMADEIRA.png" group-title="PORTUGAL",RTP MADEIRA (Copyright © 2019 - TeamBlue)
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPACORES.png" group-title="PORTUGAL",RTP ACORES (Copyright © 2019 - TeamBlue)
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANCAONOVA.png" group-title="PORTUGAL",CANÇÃO NOVA (Copyright © 2019 - TeamBlue)
+https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANCAONOVA.png" group-title="PORTUGAL",CANÇÃO NOVA (Copyright © 2019 - TeamBlue)
+https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTV.png" group-title="PORTUGAL",AR TV (Copyright © 2019 - TeamBlue)
+http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTV.png" group-title="PORTUGAL",AR TV (Copyright © 2019 - TeamBlue)
+http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTV.png" group-title="PORTUGAL",AR TV (Copyright © 2019 - TeamBlue)
+http://193.126.16.68:1935/livenlin4/2liveartvpub/chunklist_w30591610.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPAFRICA.png" group-title="PORTUGAL",RTP AFRICA (Copyright © 2019 - TeamBlue)
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPAFRICA.png" group-title="PORTUGAL",RTP AFRICA (Copyright © 2019 - TeamBlue)
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPINT.png" group-title="PORTUGAL",RTP INTERNACIONAL (Copyright © 2019 - TeamBlue)
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
