@@ -1,13 +1,13 @@
 #EXTM3U
 
 
-#################TITANS########################
+#################FILMES########################
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vdV3VYf4JGQ/hqdefault.jpg" group-title="FILMES" pltv-subgroup="TITANS", GRITOS DA NOITE
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/GRTSDNTE.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/19/06/06/22/15/5719779.jpg" group-title="FILMES" pltv-subgroup="TITANS", ANABELLE
-http://cdnfe3.azureedge.net/RCFServer1/ondemand/GRTSDNTE.mp4?attachment=true
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/a-pantera-cor-de-rosa-2-dvd-filme-original-D_NQ_NP_737411-MLB20552119839_012016-F.jpg" group-title="FILMES" pltv-subgroup="TITANS", A PANTERA COR DE ROSA
+http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
 
 
 #################CHAVES E CHAPOLIN########################
