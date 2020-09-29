@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#################CANAIS########################
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Tvcultura3.jpg" group-title="CANAIS" pltv-subgroup="TV CULTURA", TV CULTURA
+
+#EXTINF:TV CULTURA
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b581072.m3u8
