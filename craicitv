@@ -1,7 +1,4 @@
 #EXTM3U
 
-
-
-
-#EXTINF:TV CULTURA
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b581072.m3u8
